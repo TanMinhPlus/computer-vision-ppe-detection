@@ -228,7 +228,7 @@ After benchmarking all three models under identical training settings:
 - Doan Duy Long
 - Nguyen Tran Hai Phong
 
-Computer Vision • AI Engineering • Backend AI Systems
+Computer Vision 
 
 - Linkedln: Minh Pham Tan 
 - Email: phamtanminh2004@gmail.com
