@@ -225,8 +225,6 @@ After benchmarking all three models under identical training settings:
 ## Author
 
 - Pham Tan Minh 
-- Doan Duy Long
-- Nguyen Tran Hai Phong
 
 Computer Vision 
 
