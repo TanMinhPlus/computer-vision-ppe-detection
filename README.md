@@ -63,7 +63,7 @@ Training --> RTDETR
 
 YOLOv8 --> Evaluation
 
-YOLO11 --> Evaluation
+YOLO26 --> Evaluation
 
 RTDETR --> Evaluation
 
