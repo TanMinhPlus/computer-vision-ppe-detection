@@ -57,7 +57,7 @@ Training
 
 Training --> YOLOv8
 
-Training --> YOLO11
+Training --> YOLO26
 
 Training --> RTDETR
 
