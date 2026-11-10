@@ -65,7 +65,7 @@ YOLOv8 --> Evaluation
 
 YOLO26 --> Evaluation
 
-RTDETR --> Evaluation
+RT-DETR --> Evaluation
 
 Evaluation --> Benchmark
 
