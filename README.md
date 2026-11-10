@@ -59,7 +59,7 @@ Training --> YOLOv8
 
 Training --> YOLO26
 
-Training --> RTDETR
+Training --> RT-DETR
 
 YOLOv8 --> Evaluation
 
